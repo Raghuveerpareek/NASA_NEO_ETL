@@ -42,6 +42,13 @@ After sending an HTTP request to fetch the near-Earth object data from NASA's AP
   
  You can also see a demo response of the data received: [Demo_Response](https://api.nasa.gov/neo/rest/v1/neo/browse?api_key=DEMO_KEY)
 
+
+
+## Output File
+
+Here's the final CSV output you will find in the S3 Bucket: [Output File](nasa-neo-output-data.csv)
+
+
 ## Scripts Used
 
 **For ETL:** 
